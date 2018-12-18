@@ -1,0 +1,17 @@
+Package: com.pixelomer.weirdflexbutok
+Name: WeirdFlexButOK
+Depends: mobilesubstrate, firmware (>=11.0)
+Version: 0.2
+Architecture: iphoneos-arm
+Description: A work-in-progress FLEX alternative.
+  This is an open sourced work-in-progress FLEX alternative.
+  Implemented features:
+  - Override return values of methods with constant values without programming.
+  - Override arguments of methods with constant values without programming.
+  Planned features:
+  - Override return values of methods with return values from other methods without programming.
+  - A basic app to create, manage and export patches into DEB files so they can be shared on Cydia. No custom publishing platform is planned.
+Homepage: https://github.com/pixelomer/WeirdFlexButOK
+Maintainer: PixelOmer
+Author: PixelOmer
+Section: Tweaks

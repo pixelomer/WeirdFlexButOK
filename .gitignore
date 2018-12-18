@@ -1,0 +1,6 @@
+.theos
+obj
+packages
+._*
+.DS_Store
+.gitattributes
